@@ -342,14 +342,14 @@ div#search-form:after {
     border-radius: 3px;
     border: 1px solid #dfdfdf;
     color: #444;
-    background: url(/img/order-tracking.png) 6px -53px no-repeat;
+    background: url(../img/order-tracking.png) 6px -53px no-repeat;
 }
 
 #login-user {
     /* 170px/1343px */
     width: 12.65822784810127%;
     font-size: 12px;
-    background: url(/img/avatar-s.png) 0 0 no-repeat;
+    background: url(../img/avatar-s.png) 0 0 no-repeat;
     display: inline-block;
     float: left;
 /*    border: 1px solid #ccc;*/
