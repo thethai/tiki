@@ -267,6 +267,9 @@ $(document).ready(function() {
             } 
         });
         if (scroll > windowHeight) {
+            $('#main-bottom-1').css({
+                'width': '79.32918838421445%'   
+            });
             $('#main-nav-bottom').css({
                 'position': 'fixed',
                 'top': 0,
@@ -324,6 +327,9 @@ $(document).ready(function() {
             $('#header-link').hide();
             $('#header-phone').hide();
         } else {
+            $('#main-bottom-1').css({
+                'width': '85.62918838421445%'  
+            });
             $('#main-nav-bottom').css({
                 'position': 'relative',
                 'top': 'auto',
